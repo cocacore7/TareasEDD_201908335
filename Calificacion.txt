@@ -1,0 +1,12 @@
+******************Errores***************************
+1. Cuando le doy 2 veces insertar me sobreescribe los datos y no se guardan los anteriores
+
+
+******************Comentarios************************
+1. Seria bueno que dejaras una ruta solo para probar el servidor, se hace como buena practica
+2. Muy bien la salida al momento de no haber mensajes
+
+******************Nota********************************
+Insertar datos  30/40
+Mostrar datos   40/40
+Servidor 20/20
