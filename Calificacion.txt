@@ -1,0 +1,15 @@
+
+----------------Errores---------------------
+  
+
+----------------Comentarios-----------------
+1. Estas utilizando un contador para hacer los nodos, en este caso funciona
+pero en un arbol en donde el recorrido es distinto va a fallar. Lo mejor es utilizar la direccion 
+de memoria ya que es unico.
+
+2. Veo que recorres tu lista de solo un sentido, es mejor imprimir el anterior tambien
+para ver si existe algun error en la estructura
+
+Presentacion    50/50
+Recorrido	50/50  
+Total 		100 
